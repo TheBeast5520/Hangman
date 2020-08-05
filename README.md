@@ -1,3 +1,3 @@
 # Hangman
 
-A simple Hangman game.
+Two separate hangman codes.
